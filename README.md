@@ -1,3 +1,6 @@
+# React-to-do-list
+Click on https://react-todolistnew.netlify.app/ to view it on your browser.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
